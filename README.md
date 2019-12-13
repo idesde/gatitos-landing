@@ -1,3 +1,27 @@
+# Gatitos landing page
+
+## Configure the project
+
+We recommend to use [nvm](https://github.com/nvm-sh/nvm)
+
+- Use the node version configured in `.nvmrc` file
+
+```bash
+nvm use # This will automatically use .nvmrc node version
+```
+
+- Install dependencies
+
+```bash
+  npm install
+```
+
+## Running the project locally
+
+```bash
+npm start
+```
+
 <p align="center">
   <a href="https://cara.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
